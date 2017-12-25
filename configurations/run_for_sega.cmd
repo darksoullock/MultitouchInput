@@ -1,0 +1,1 @@
+start TouchInput.exe sega.txt

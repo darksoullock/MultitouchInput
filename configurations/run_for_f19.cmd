@@ -1,0 +1,1 @@
+start TouchInput.exe f19.txt

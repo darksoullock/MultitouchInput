@@ -1,0 +1,1 @@
+start TouchInput.exe nes.txt
